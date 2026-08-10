@@ -43,3 +43,15 @@ strong { color: var(--text); }
 
 footer { color: var(--muted); font-size: 14px; margin-top: 48px; border-top: 1px solid var(--border);
   padding-top: 16px; text-align: center; }
+
+/* Email contact: the address is always visible + selectable; contact.js adds a
+   "Copy" button beside it where the browser supports copying. */
+.contact-email { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  justify-content: center; }
+.contact-email a { -webkit-user-select: text; user-select: text; word-break: break-all; }
+.copy-email { cursor: pointer; font: inherit; font-size: 13px; font-weight: 600;
+  color: var(--accent); background: transparent; border: 1px solid var(--border);
+  border-radius: 8px; padding: 3px 10px; line-height: 1.4; }
+.copy-email:hover { border-color: var(--accent); }
+.copy-email.copied { color: #fff; background: var(--accent); border-color: var(--accent); }
+.hint { color: var(--muted); font-size: 14px; margin: 6px 0 0; }
