@@ -1,6 +1,6 @@
-# Wee Apps website
+# Wee Apps NI website
 
-The public site for **Wee Apps**, served by GitHub Pages at
+The public site for **Wee Apps NI**, served by GitHub Pages at
 **https://weeappsni.github.io/**. It hosts a small page for each app plus that
 app's **privacy policy** and **support** pages (the privacy URL is what the app
 stores require).
@@ -8,7 +8,7 @@ stores require).
 ## Layout
 
 ```
-/                     Wee Apps home — one card per app
+/                     Wee Apps NI home — one card per app
 /style.css            shared styles for every page (edit the design here once)
 /404.html             friendly "not found" page
 /bindayni/            BinDayNI

@@ -1,4 +1,4 @@
-/* Shared styles for the whole Wee Apps site. Change the design here once and
+/* Shared styles for the whole Wee Apps NI site. Change the design here once and
    every page (home + every app's pages) updates. Colours adapt to light/dark. */
 :root {
   --bg: #f7f8f6; --card: #ffffff; --text: #1a1c19; --muted: #5b615a;
@@ -22,10 +22,6 @@ h2 { font-size: 20px; margin: 28px 0 8px; }
 /* Home / hero */
 header.site { text-align: center; margin-bottom: 36px; }
 .logo { font-size: 44px; }
-.logo svg { width: 60px; height: 60px; display: inline-block; vertical-align: middle; }
-/* Green wheelie-bin brand mark (drawn, since there is no wheelie-bin emoji). */
-.brand-bin { color: var(--accent); }
-.inline-bin svg { width: 1.1em; height: 1.1em; vertical-align: -0.15em; }
 .tag { color: var(--muted); font-size: 18px; margin: 6px 0 0; }
 
 /* Cards */
