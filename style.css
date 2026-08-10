@@ -43,6 +43,7 @@ strong { color: var(--text); }
 
 footer { color: var(--muted); font-size: 14px; margin-top: 48px; border-top: 1px solid var(--border);
   padding-top: 16px; text-align: center; }
+footer p { margin: 4px 0; }
 
 /* Email contact: the address is always visible + selectable; contact.js adds a
    "Copy" button beside it where the browser supports copying. */

@@ -15,13 +15,13 @@
       var btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'copy-email';
-      btn.textContent = 'Copy';
+      btn.textContent = 'Copy address';
       btn.setAttribute('aria-label', 'Copy email address ' + addr);
       btn.addEventListener('click', function () {
         navigator.clipboard.writeText(addr).then(function () {
           btn.textContent = 'Copied!';
           btn.classList.add('copied');
-          setTimeout(function () { btn.textContent = 'Copy'; btn.classList.remove('copied'); }, 1800);
+          setTimeout(function () { btn.textContent = 'Copy address'; btn.classList.remove('copied'); }, 1800);
         }).catch(function () {
           btn.textContent = 'Select & copy';
         });
