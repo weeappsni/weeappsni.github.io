@@ -11,7 +11,7 @@
   <div class="wrap">
     <a class="back" href="/bindayni/">← BinDayNI</a>
     <h1>BinDayNI — Privacy Policy</h1>
-    <p class="updated">Last updated: 10 August 2026</p>
+    <p class="updated">Last updated: 29 September 2026</p>
 
     <p>BinDayNI is a free bin-collection reminder app for Northern Ireland, made by Wee Apps NI, an
        independent developer. This policy explains, in plain English, what the app does with your
@@ -27,19 +27,28 @@
       <li>any manual bin pattern you set up.</li>
     </ul>
     <p>There is no BinDayNI account and no BinDayNI server storing your data. If you remove an address
-       in the app, or uninstall the app, that data is gone.</p>
+       in the app, or uninstall the app, that data is removed from the app. (Your phone's own backup
+       &mdash; for example Google or iCloud backup &mdash; may keep a copy and restore it if you reinstall.)</p>
 
     <h2>What the app sends, and to whom</h2>
     <p>To do its job, the app makes requests to services run by other organisations. It only ever sends
        what's needed to provide a feature:</p>
     <ul>
-      <li><strong>Your council's website / bin-checker.</strong> To fetch your collection dates, the app
-        sends your postcode and the property identifier for the address you picked to your local council's
-        own bin-lookup service (or, for some areas, to Bryson Recycling, which runs certain kerbside
-        collections). This is the same information you would type into the council's own website.</li>
+      <li><strong>Council bin-lookup services.</strong> When you search for your postcode, the app sends it
+        to the online bin-lookup services of all eight councils it reads automatically at once (Antrim &amp;
+        Newtownabbey; Armagh, Banbridge &amp; Craigavon; Ards &amp; North Down; Belfast; Fermanagh &amp; Omagh;
+        Lisburn &amp; Castlereagh; Mid &amp; East Antrim; Mid Ulster), because a postcode alone doesn't say which
+        council's system holds your address. Only the matching council's answer is used. After you pick your
+        address, the app only contacts your own council to fetch your collection dates, sending your postcode
+        and the property identifier for the address you picked (or, for some areas, to Bryson Recycling, which
+        runs certain kerbside collections). This is the same information you would type into the council's
+        own website.</li>
       <li><strong>postcodes.io (a public UK postcode service).</strong> On the Recycling tab, your postcode
         is sent to postcodes.io to work out rough distances so recycling centres can be listed
         nearest-first. If it's unavailable, the list just shows unsorted.</li>
+      <li><strong>gov.uk bank-holidays feed.</strong> The app downloads the public list of Northern Ireland
+        bank holidays (to flag them on the Upcoming tab). This request sends <strong>nothing about you</strong>
+        &mdash; it just fetches a public list of dates.</li>
       <li><strong>Email you choose to send.</strong> Some buttons ("report a problem with my dates",
         "notify me when my council is added") open <strong>your own email app</strong> with a message
         pre-filled to the developer (<a href="mailto:weeappsni@gmail.com">weeappsni@gmail.com</a>), which
