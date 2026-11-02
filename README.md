@@ -14,6 +14,11 @@ stores require).
 /bindayni/            BinDayNI
   /bindayni/privacy       -> https://weeappsni.github.io/bindayni/privacy
   /bindayni/support       -> https://weeappsni.github.io/bindayni/support
+  /bindayni/moved-days.json -> the moved bin days list the BinDayNI app reads
+                          (councils' published holiday moves; every phone picks
+                          up a change within the hour). Only Warren pushes it,
+                          after checking it with the app's
+                          monitor/check-moved-days.js. Never a test entry.
 /privacy, /support    old top-level URLs — now redirect to /bindayni/... (kept so
                       any previously-shared link still works)
 /_template/           copy-me starter for a new app (the leading "_" means GitHub
