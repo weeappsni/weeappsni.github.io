@@ -1,4 +1,185 @@
 {
   "about": "Bin collections Northern Ireland councils have announced as moved, read by the BinDayNI app. Each entry links to the council's own notice.",
-  "moves": []
+  "moves": [
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-25",
+      "to": "2026-12-22",
+      "bins": [
+        "general"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "General waste bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-28",
+      "to": "2026-12-24",
+      "bins": [
+        "general"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "General waste bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2027-01-01",
+      "to": "2026-12-30",
+      "bins": [
+        "general"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "General waste bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-25",
+      "to": "2026-12-23",
+      "bins": [
+        "recycling"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "Recycling (green) bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-28",
+      "to": "2026-12-29",
+      "bins": [
+        "recycling"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "Recycling (green) bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2027-01-01",
+      "to": "2026-12-31",
+      "bins": [
+        "recycling"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "Recycling (green) bins, Christmas/New Year (Citywide Winter 2026)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-21",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-22",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-23",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-24",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-25",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-28",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-29",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-30",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-31",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2027-01-01",
+      "to": null,
+      "bins": [
+        "garden"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "No brown bin collections Mon 21 Dec to Sun 3 Jan"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2026-12-25",
+      "to": "2026-12-27",
+      "bins": [
+        "boxes"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "Kerbie and wheelie boxes (food caddy not in the notice: left as the lookup has it, council asked)"
+    },
+    {
+      "council": "lisburn-castlereagh",
+      "from": "2027-01-01",
+      "to": "2027-01-02",
+      "bins": [
+        "boxes"
+      ],
+      "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
+      "note": "Kerbie and wheelie boxes (food caddy not in the notice: left as the lookup has it, council asked)"
+    }
+  ]
 }
