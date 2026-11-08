@@ -166,20 +166,22 @@
       "from": "2026-12-25",
       "to": "2026-12-27",
       "bins": [
-        "boxes"
+        "boxes",
+        "food"
       ],
       "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
-      "note": "Kerbie and wheelie boxes (food caddy not in the notice: left as the lookup has it, council asked)"
+      "note": "Kerbie and wheelie boxes; the food caddy moves with them (Warren's call, 8 Nov: the notice moves box collections and says nothing on the caddy)"
     },
     {
       "council": "lisburn-castlereagh",
       "from": "2027-01-01",
       "to": "2027-01-02",
       "bins": [
-        "boxes"
+        "boxes",
+        "food"
       ],
       "source": "https://www.lisburncastlereagh.gov.uk/w/holiday-collection-arrangements-winter-2026",
-      "note": "Kerbie and wheelie boxes (food caddy not in the notice: left as the lookup has it, council asked)"
+      "note": "Kerbie and wheelie boxes; the food caddy moves with them (Warren's call, 8 Nov: the notice moves box collections and says nothing on the caddy)"
     }
   ]
 }
